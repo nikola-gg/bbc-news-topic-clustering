@@ -1,7 +1,29 @@
 # BBC News Topic Clustering (TF-IDF + MiniBatchKMeans)
 
-This project groups BBC News articles into coherent themes using text-based similarity and clustering techniques.  
-It includes an end-to-end NLP pipeline: data cleaning, text preprocessing, TF-IDF feature engineering, clustering, and interpretation.
+## Project Overview
+
+This project explores **unsupervised topic discovery in a large news dataset** using Natural Language Processing techniques.  
+It implements a full **text-processing and machine learning pipeline** that transforms raw news articles into interpretable topic clusters.
+
+The workflow includes **data cleaning, text preprocessing, TF-IDF feature engineering, clustering, and cluster interpretation**.
+
+## Tech Stack
+
+- Python
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+
+## Skills Demonstrated
+
+- Natural Language Processing (NLP)
+- Text preprocessing and feature engineering
+- TF-IDF vectorization
+- Unsupervised learning (MiniBatchKMeans)
+- Dimensionality reduction (SVD)
+- Model evaluation (Silhouette Score)
+- Data preprocessing and validation
 
 ## Dataset
 
